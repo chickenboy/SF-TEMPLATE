@@ -1,0 +1,15 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "Template",
+      "versionName": "CMCTemplate",
+      "versionNumber": "0.0.0.NEXT"
+    }
+  ],
+  "name": "SAMPLEBUILD",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "55.0"
+}
